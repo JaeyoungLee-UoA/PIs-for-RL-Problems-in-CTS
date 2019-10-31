@@ -37,6 +37,7 @@ pre_x2 = [-x2_bound:x2_bound/(GridN2-1):x2_bound]'; % the grid points in x2
 l1 = length(pre_x1);
 l2 = length(pre_x2);
 
+figure
 [x1, x2] = meshgrid(pre_x1,pre_x2);
 z = zeros(l1,l2);
 
