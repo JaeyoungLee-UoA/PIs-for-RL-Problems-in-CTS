@@ -1,7 +1,7 @@
 # PIs-for-RL-Problems-in-CTS
 This repository provides the open source code used to generate the simulation results shown in the manuscript:
 
-"Jaeyoung Lee and Richard S. Sutton (2019) Policy Iterations for Reinforcement Learning Problems in Continuous Time and Space -- Fundamental Theory and Methods, under the review in Automatica."
+"Jaeyoung Lee and Richard S. Sutton (2019) Policy Iterations for Reinforcement Learning Problems in Continuous Time and Space -- Fundamental Theory and Methods, to be appear in Automatica."
 
 To reproduce the results in the manuscript, please run the code according to the following instruction (tested in MATLAB R2012a (32bit) Edition).
 
