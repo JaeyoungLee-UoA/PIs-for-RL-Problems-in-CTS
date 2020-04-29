@@ -37,7 +37,7 @@ To reproduce the results in the paper, please run the code according to the foll
       * DPI: **``Main('DPI', 'Bin', 'B-bang', [20, 20], 50)``**
       * IPI: **``Main('IPI', 'Bin', 'B-bang', [20, 21], 50)``**
       
-    The bold cases are required to run in order to draw the figures in the manuscript. Once running the code, the data is stored in the subfolder ``.\data\``.
+    The bold cases are required to run in order to draw the figures in the manuscript. Once code has run, the data will be stored in the subfolder ``.\data\``.
 
 3. To draw Fig. 1 in the manuscript from the data obtained in the 2nd step above, run the following commands.
 
